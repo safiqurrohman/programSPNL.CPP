@@ -1,1 +1,3 @@
 ingin menambah rencana web
+-belajar vuejs
+-belajar express js
